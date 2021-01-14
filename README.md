@@ -1,9 +1,11 @@
 
 <img src="https://raw.githubusercontent.com/ngxson/chatbot-cnh/master/readme/github_cover.png" width="100%">
 
-# Chatbot CNH - Version 4.0
+# Chatbot CNH - Version 4.1
 ---
 ### Lời nói đầu
+
+> **(15/06/2019) Lưu ý**: Do mình bận nên không có tgian duy trì dự án này nữa. Các bạn có thể dùng phiên bản của @hieplpvip tại đây: [https://github.com/ptnkchat/ptnkchat](https://github.com/ptnkchat/ptnkchat)
 
 Bonjour à tous,
 
